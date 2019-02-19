@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="481c7911-fee2-4810-88f7-3b096b705f52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/btre/static/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listings/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/listing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/lists.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/listings/search.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/pages/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/partials/_topbar.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btre/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/btre/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -236,12 +221,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550352105815</updated>
-      <workItem from="1550352108671" duration="27305000" />
+      <workItem from="1550352108671" duration="27462000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27305000" />
+    <option name="totallyTimeSpent" value="27462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="6" />
