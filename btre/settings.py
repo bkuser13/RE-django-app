@@ -148,6 +148,6 @@ MESSAGE_TAGS = {
 #email config
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'useraltyn@gmail.com'
-EMAIL_HOST_PASSWORD = 'UserBolot13!'
+EMAIL_HOST_USER = 'your@email.com'
+EMAIL_HOST_PASSWORD = 'your_password'
 EMAIL_USE_TLS= True
